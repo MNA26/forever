@@ -1,0 +1,12 @@
+Fonkiyonsal Gereksinimler
+
+1. Kayıt Ol
+2. Giriş Yap
+3. Profil Oluşturma
+4. Profil Güncelleme
+5. Ürün Ekleme
+6. Ürün Listeleme
+7. Üretici Değerlendirme
+8. Sepete Ekleme
+9. Sipariş Verme
+10. Ödeme Yapma
